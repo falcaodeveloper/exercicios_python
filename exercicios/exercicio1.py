@@ -3,8 +3,8 @@
 
 entrada = 'Por favor, digite sua idade: '
 menor = 'Você é MENOR de idade.'
-maior = 'Você é adulto, MAIOR de idade'
-idoso = 'Você é idoso(a)'
+maior = 'Você é adulto, MAIOR de idade.'
+idoso = 'Você é idoso(a).'
 
 idade = int(input(entrada))
 
