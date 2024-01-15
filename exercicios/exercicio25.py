@@ -1,0 +1,5 @@
+#Faça um programa que conte quantas letras maiúsculas existem numa string: https://www.respondeai.com.br/conteudo/strings/exercicios/faca-programa-conte-quantas-letras-maiusculas-existem-string-10905
+
+string = input('Digite o que quiser:\n').strip()
+maiusculas = string.count('A') + string.count('B') + string.count('C') + string.count('D') + string.count('E') + string.count('F') + string.count('G') + string.count('H') + string.count('I') + string.count('J') + string.count('K') + string.count('L') + string.count('M') + string.count('N') + string.count('O') + string.count('P') + string.count('Q') + string.count('R') + string.count('S') + string.count('T') + string.count('U') + string.count('V') + string.count('W') + string.count('X') + string.count('Y') + string.count('Z')
+print('Total de letras maiúsculas: {}' .format(maiusculas))
